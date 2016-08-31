@@ -16,7 +16,7 @@
 				})
 			})
 			.append(
-				+ "<img class='data-image' src='" + dataImage + "'>"
+				"<img class='data-image' src='" + dataImage + "'>"
 				+ "<div class='magnifier-loupe'>"
 					+ "<img src='" + dataImageZoom + "'>"
 				)
