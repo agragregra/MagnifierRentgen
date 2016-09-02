@@ -33,7 +33,7 @@
 					})
 					.find("img").css({
 						"position" : "absolute",
-						"width"    : th.width()
+						"min-width"    : th.width()
 					});
 
 			th.mousemove(function(e) {
