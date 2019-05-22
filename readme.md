@@ -1,7 +1,7 @@
 <h1>jQuery MagnigierRentgen Plugin</h1>
 
-<p>Author: <strong>WebDesign Master</strong></p>
-<p><a href="https://youtube.com/agragregra" target="_blank">https://youtube.com/agragregra</a></p>
+<p>Author: <strong><a href="https://webdesign-master.ru" target="_blank">WebDesign Master</a></strong></p>
+<p><a href="https://youtube.com/agragregra" target="_blank" target="_blank">YouTube Channel</a></p>
 <p><a href="http://agragregra.github.io/demos/MagnifierRentgen/" target="_blank">Demo</a></p>
 
 <h2>Use</h2>
